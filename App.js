@@ -5,6 +5,7 @@ import {
   TouchableOpacity,
   Text,
   Image,
+  Platform,
   KeyboardAvoidingView,
 } from "react-native";
 import styles from "./src/styles";
